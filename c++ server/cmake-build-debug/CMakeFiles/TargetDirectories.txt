@@ -1,0 +1,3 @@
+C:/Users/Valery/CLionProjects/library/cmake-build-debug/CMakeFiles/RFIDProject.dir
+C:/Users/Valery/CLionProjects/library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Valery/CLionProjects/library/cmake-build-debug/CMakeFiles/rebuild_cache.dir

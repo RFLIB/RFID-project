@@ -6,12 +6,20 @@ Short description about the technology and how its made (7 minutes) : https://ww
 
 
 The files i added:
+
 -c++ server:
+
 In here we connect to the serial port which recieves data wirelessly, operating the machine that counts the books, create database of books that have been
 read and making statistical search on books location.
+
 -arduino files: 
+
 one file is for the pc transiver which we can find on the countrfit and the second is the motor controller which is on the shelve.
+
 -antenna files:
+
 gerber files of 2 antennas that we created for the project
+
 -ui
+
 ui in pyqt5 which displays the location of the book on the shelve
